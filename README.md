@@ -1,2 +1,2 @@
-GITHUB SEEMS TO HAVE SOME ISSUES WITH IPYNB FILES. 
-IF THE NOTEBOOK DOESN'T OPEN, PLEASE PASTE IT'S LINK INTO https://nbviewer.jupyter.org/
+GitHub seems to have some issues with ipynb files. <br/>
+If the notebook doesn't open, please paste it's link into https://nbviewer.jupyter.org/
